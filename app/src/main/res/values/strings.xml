@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Phone Store</string>
+    <string name="content_text">Xiaomi resmi meluncurkan smartphone terbarunya hari ini di Tiongkok Redmi K20 Pro ramai disebut sebagai "flagship killer" karena memiliki spesifikasi papan atasDapur pacunya diperkuat Snapdragon 855. Redmi K20 menjadi ponsel Redmi pertama yang menggunakan chip ini.</string>
+    <string name="content_specs_display">6,39 inces\n
+        1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density), Super AMOLED\n
+        3D Corning® Gorilla® Glass 5\n
+        OS: Android 9.0 (Pie); MIUI 10\n
+        Chipset: Qualcomm SDM855 Snapdragon 855 (7 nm)\n
+        Internal: 64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM\n
+        Camera: 48MP, 2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps, Dual-LED flash, HDR</string>
+    <string name="content_specs_size">1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)</string>
+    <string name="content_specs_battery">Non-removable Li-Po 4000 mAh battery.\n
+    Standby time (LTE): up to 19 days\n
+    Talk time (3g/WCDMA): up to 26 hours\n
+    Internet use time (Wi-Fi): up to 13 hours\n
+    Internet use time (LTE): up to 13 hours\n
+    Video playback: up to 13 hours\n
+    2.0, Type-C 1.0 reversible connector, USB On-The-Go\n
+    Fast battery charging 27W (Quick Charge 4+)</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Narenda Wicaksono</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$400</string>
+    <string name="dummy_photos">6 photos</string>
+</resources>
